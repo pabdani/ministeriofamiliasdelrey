@@ -5,3 +5,7 @@ font-family: 'Lato', sans-serif;
 .dl_logos:visited {
 color: #2ac7ff;
 }
+
+.dl_logos:link {
+color: #2ac7ff;
+}
